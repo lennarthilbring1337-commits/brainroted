@@ -1,0 +1,42 @@
+{
+  "images": [],
+  "videos": [
+    "content/videos/Download (1) Kopie.mp4",
+    "content/videos/Download (1).mp4",
+    "content/videos/Download (3) Kopie.mp4",
+    "content/videos/Download (3).mp4",
+    "content/videos/Download (4) Kopie.mp4",
+    "content/videos/Download (4).mp4",
+    "content/videos/Download (5).mp4",
+    "content/videos/Download (6).mp4",
+    "content/videos/Download (7).mp4",
+    "content/videos/Download (8).mp4",
+    "content/videos/Download Kopie 2.mp4",
+    "content/videos/Download Kopie 3.mp4",
+    "content/videos/Download Kopie 4.mp4",
+    "content/videos/Download Kopie.mp4",
+    "content/videos/Download.mp4",
+    "content/videos/sea-chaos.mp4"
+  ],
+  "texts": [],
+  "audio": [],
+  "fonts": [
+    { "name": "CH1 Ultra", "file": "fonts/CH1_ultra.otf" },
+    { "name": "Block Ultra", "file": "fonts/block_ultra.otf" },
+    { "name": "Sonar Ultra", "file": "fonts/sonar_ultra.otf" },
+    { "name": "LLO Ultra", "file": "fonts/LLO_ultra.otf" },
+    { "name": "TRB Ultra", "file": "fonts/TRB_ultra.otf" },
+    { "name": "DRN Ultra", "file": "fonts/DRN_ultra.otf" },
+    { "name": "KID Ultra", "file": "fonts/KID_ultra.otf" },
+    { "name": "Echo Ultra", "file": "fonts/echo_ultra.otf" },
+    { "name": "Rb Ultra", "file": "fonts/Rb_ultra-Regular.ttf" },
+    { "name": "Noise Two Ultra", "file": "fonts/NOISE2_ultra.otf" },
+    { "name": "Vv Ultra", "file": "fonts/Vv_ultra-Regular.ttf" },
+    { "name": "TSU Ultra", "file": "fonts/TSU_ultra.otf" },
+    { "name": "Ink Ultra", "file": "fonts/INK_ultra.otf" },
+    { "name": "Slice Ultra", "file": "fonts/slice_ultra.otf" },
+    { "name": "Ak Ultra", "file": "fonts/Ak_ultra-Regular.ttf" },
+    { "name": "Noise Ultra", "file": "fonts/Noise_ultra-Regular.ttf" },
+    { "name": "Fck Ultra", "file": "fonts/Fck_ultra-Regular.ttf" }
+  ]
+}
